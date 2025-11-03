@@ -9,3 +9,6 @@
 https://modrinth.com/resourcepack/mploc_mods
 Так же нейронный перевод. квестов: 
 https://github.com/MementoMoriCyka/ftb-stoneblock-4-Ru
+
+
+Мод ftb-echoes заменяете в папке Mods он переведенный 
